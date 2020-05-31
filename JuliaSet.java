@@ -88,4 +88,4 @@ public class JuliaSet {
     JuliaSet js = new JuliaSet(c);
     js.drawSet();
   }
- }
+}
